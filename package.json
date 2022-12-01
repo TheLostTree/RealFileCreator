@@ -1,0 +1,14 @@
+{
+  "name": "realcorruptfile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node . 1403 test.txt" 
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "corrfile": "index.js"
+  }
+}
